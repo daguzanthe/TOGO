@@ -9,5 +9,6 @@
 </head>
 <body>
     <?php include('./php/general/header.php') ?>
+    <h1>test</h1>
 </body>
 </html>
