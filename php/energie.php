@@ -2,6 +2,7 @@
 <html xmlns="http://www.w3.org/1999/xhtml" xml:lang="fr" lang="fr">
 <head>
     <meta charset="utf-8">
+    <link rel="stylesheet" type="text/css" href="../../css/services.css">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title> Togo Beta </title>
     <!-- CSS only -->
@@ -14,19 +15,19 @@
             <div class="col-sm-5">
                 <h3>Energie</h3>
                 <hr>
-                <p>Projet 1</p>
+                <p>Luminaires Led Economiques</p>
+                <img src="../images/ampoule3.jpg" alt="">
+                <p>Kit anti-coupure</p>
 
-                <p>Projet 3</p>
-                
-                <p>Projet 5</p>
             </div>
             <div class="col-sm-5" >
-            <br><br><br>*
-            <p>Projet 2</p>
-            <p>Projet 4</p>
+            <br><br><br>
+            <p>Installation solaire sans batteries</p>
+            <p>Installation solaire complète</p>
             </div>
         </div>
     </div>
     <?php include('general/footer.php') ?>
 </body>
+
 </html>
