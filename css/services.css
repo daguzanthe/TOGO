@@ -9,6 +9,16 @@
 
 img
 {
-    width: 100px;
-    height: 100px;
+    width: 200px;
+    height: 200px;
+}
+
+.divProduit1
+{
+    margin-left: 70px;
+}
+
+.divProduit2
+{
+    margin-left: 350px;
 }

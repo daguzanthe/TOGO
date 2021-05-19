@@ -15,15 +15,31 @@
             <div class="col-sm-5">
                 <h3>Energie</h3>
                 <hr>
-                <p>Luminaires Led Economiques</p>
-                <img src="../images/ampoule3.jpg" alt="">
-                <p>Kit anti-coupure</p>
+                <div class = "divProduit1">
+                    <p>Luminaires Led Economiques</p>
+                    <img src="../images/ampoule3.jpg" alt="">
+                </div>
+
+                <div class = "divProduit2">
+                    <p>Kit anti-coupure</p>
+                    <img src="../images/anti_coupure.jpg" alt="">
+                </div>
 
             </div>
             <div class="col-sm-5" >
             <br><br><br>
-            <p>Installation solaire sans batteries</p>
-            <p>Installation solaire complète</p>
+
+            <div class = "divProduit1">
+                    <p>Installation solaire sans batteries</p>
+                    <img src="../images/sansbatterie.jpg" alt="">
+                </div>
+
+                <div class = "divProduit2">
+                <p>Installation solaire complète</p>
+                    <img src="../images/avecbatterie.jpg" alt="">
+                </div>
+            
+            
             </div>
         </div>
     </div>
