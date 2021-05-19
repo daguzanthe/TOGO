@@ -21,7 +21,7 @@
                 <p>Projet 5</p>
             </div>
             <div class="col-sm-5" >
-            <br><br><br>
+            <br><br><br>*
             <p>Projet 2</p>
             <p>Projet 4</p>
             </div>
