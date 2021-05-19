@@ -9,19 +9,17 @@
       <!-- Youtube -->
       <a href="https://www.youtube.com/channel/UCWpZDDCOXdkm42P6NCfZr2Q"><img src="../../images/yout.png" alt="" width=4%></a>
      
-
      <!-- Whatsapp -->
      <img src="../../images/what.png" alt="" width=4%>
 
     </section>
     <!-- Section: Social media -->
   </div>
-  <!-- Grid container -->
 
   <!-- Copyright -->
-  <div class="text-center text-dark p-3" style="background-color: rgba(0, 0, 0, 0.2);">
+  <div class="text-center text-white p-3" style="background-color: rgba(0, 0, 0,0.9);">
     © 2021 Copyright:
-    <a class="text-dark" href="https://togobeta.com/">TogoBeta.com</a>
+    <a class="text-white" href="https://togobeta.com/">TogoBeta.com</a>
   </div>
   <!-- Copyright -->
 </footer>
