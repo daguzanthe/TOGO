@@ -17,12 +17,12 @@
                 <hr>
                 <div class = "divProduit1">
                     <p>Luminaires Led Economiques</p>
-                    <img src="../images/ampoule3.jpg" alt="">
+                    <img class ="imagepres" src="../images/ampoule3.jpg" alt="">
                 </div>
 
                 <div class = "divProduit2">
                     <p>Kit anti-coupure</p>
-                    <img src="../images/anti_coupure.jpg" alt="">
+                    <img class ="imagepres" src="../images/anti_coupure.jpg" alt="">
                 </div>
 
             </div>
@@ -31,12 +31,12 @@
 
             <div class = "divProduit1">
                     <p>Installation solaire sans batteries</p>
-                    <img src="../images/sansbatterie.jpg" alt="">
+                    <img class ="imagepres" src="../images/sansbatterie.jpg" alt="">
                 </div>
 
                 <div class = "divProduit2">
                 <p>Installation solaire complète</p>
-                    <img src="../images/avecbatterie.jpg" alt="">
+                    <img class ="imagepres" src="../images/avecbatterie.jpg" alt="">
                 </div>
             
             
