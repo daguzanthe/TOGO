@@ -5,6 +5,10 @@
     <link rel="stylesheet" type="text/css" href="../../css/services.css">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title> Togo Beta </title>
+
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/css/bootstrap.min.css">
+  <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
+  <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/js/bootstrap.min.js"></script>
     <!-- CSS only -->
     <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.1/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-+0n0xVW2eSR5OomGNYDnhzAbDsOXxcvSN1TPprVMTNDbiYZCxYbOOl7+AMvyTG2x" crossorigin="anonymous">
 </head>
@@ -14,7 +18,8 @@
         <div class="row" >
             <div class="col-sm-5">
                 <h3>Energie</h3>
-                <hr>
+                <hr>    
+
                 <div class = "divProduit1">
                     <p>Luminaires Led Economiques</p>
                     <img class ="imagepres" src="../images/ampoule3.jpg" alt="">
